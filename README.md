@@ -4,4 +4,4 @@
 
 ## 页面列表
 
-- [一些可能有用的网站](/navigation)
+- [一些可能有用的网站](/announcements/navigation)
