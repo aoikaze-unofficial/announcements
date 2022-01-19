@@ -40,5 +40,6 @@
 | [Galgame 世界](https://acgngame.net/)   | 资源站 | n/a                                                  | 无需登录，但是链接补档较慢<br />以KRKR资源为主               |
 | [绅士天堂](https://www.acggalgame.com/) | 资源站 | n/a                                                  | 目前无门槛，但是曾经有过公众号<br />测试时可以直接使用       |
 | [GGBases](https://www.dlgal.com/)       | 资源站 | https://www.dlgal.com/<br />https://www.ggbases.com/ | 提供拔作的磁力链接和种子<br />需要使用相关的下载工具下载     |
+| [萌站](https://hmoe.top/)               | 资源站 | https://hmoe.top/                                    | 萌站导航，有时会炸裂但是似乎活了挺久的样子                   |
 
 如果有什么问题或者变动请联系我更新/删除。
